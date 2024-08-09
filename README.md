@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kkonii/kkonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=fccc96&text=☘@kkonii☘&fontSize=35&fontColor=ffffff&fontAlignY=40&animation=blink&stroke=000000&strokeWidth=1)
+
